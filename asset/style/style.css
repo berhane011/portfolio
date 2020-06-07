@@ -1,0 +1,117 @@
+
+.bg-img{
+   background-image: url("back-ground-img.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+   color: white;
+   
+}
+img{
+   width: 70%;
+   border-radius: 100%;
+
+}
+p{
+   font-size: 1.5rem;
+   text-align: center;
+}
+p:hover{
+   font-size: 2rem;
+   
+}
+.form-control{
+   background-color: lightcyan;
+}
+.header{
+   padding-left: 114;
+   padding-top: 30px;
+   padding-right: 0px;
+}
+img:hover{
+   border-radius: .5rem;
+}
+.nav-link:hover{
+color: lightpink;
+
+}
+
+.bg-white {
+   background-color:#4491b3 !important ;
+ }
+h1{
+  padding:5px 20px 5px 20px;
+   text-align: center;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-weight: 100;
+   font-size: 4rem;
+}
+.navbar-brand{
+   margin-left: 30px;
+}
+.navbar{
+   padding-left: 30%;
+}
+.col-sm-6{
+   background-color:#4491b3;
+}
+
+.nav-link{
+   color: white;
+   font-size: 1.7rem;
+}
+
+.img-fluid{
+   text-align: center;
+   margin: 1.5rem;
+   
+}
+
+.image{
+   
+   width: 30%;
+   padding-right: 30px;
+   border-radius: 1rem;;
+   float: left;
+
+}
+footer{
+   background-color: gray;
+   text-align: center;
+    padding: 1rem;
+  
+}
+.img-fluid:hover{
+  background-color: lightslategray;
+} 
+h1:hover{
+   opacity: .2;
+  
+}
+.head-title:hover{
+ font-family: 'Times New Roman', Times, serif;
+ 
+}
+.nav-link:hover{
+  background-color: lightslategray;
+}
+.img-fluid{
+   padding: 1.5rem;
+   height: 20rem;
+   
+}
+@media only screen and (max-width:700px){
+   .image{
+       float: none;
+  
+   }
+   
+}
+/* contact */
+
+.container{
+   padding: 5rem;
+}
+.contact{
+padding-top: 15rem;
+
+}
