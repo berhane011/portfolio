@@ -6,9 +6,35 @@
    color: white;
    
 }
+.fab{
+   padding: .5rem;
+}
+div.links{
+
+text-align: center;
+
+}
+.radius{
+   border-radius: 100%;
+}
+.linkedin:hover{
+   color: white;
+}
+.git:hover{
+   color: white;
+}
+.resume:hover{
+   color: white;
+}
+.linkedin{
+  width: 10%;
+}
+.git{
+   text-align: center;
+}
 img{
    width: 70%;
-   border-radius: 100%;
+ 
 
 }
 p{
@@ -112,6 +138,6 @@ h1:hover{
    padding: 5rem;
 }
 .contact{
-padding-top: 15rem;
+padding-top: 10rem;
 
 }
